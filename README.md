@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is procject based on "Airbnb Map Clone Tutorial" [link here!](https://www.nopio.com/blog/airbnb-map-tutorial-react-rails
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Tech stack:
+* Ruby on Rails (6)
